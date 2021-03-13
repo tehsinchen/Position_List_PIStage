@@ -38,7 +38,7 @@ time.sleep(1)   # do whatever you want here
 ### Close:
 &nbsp;  &nbsp;  Close the application
 ### Relative Position & Update:
-&nbsp;  &nbsp;  In the case the sample needs to be taken away from stage for some treatment then put back. Press 'Set ref.' then 'Update' to set the reference position. When the treatment was done and found the reference position, pressing 'Set ref.' and 'Update' again to update the position list to the current sample position.
+      In the case of the sample needs to be taken away from stage for some treatment then put back. Press 'Set ref.' then 'Update' to set the reference position. When the treatment was done and found the reference position, pressing 'Set ref.' and 'Update' again to update the position list to the current sample position.
 ### Interval:
 &nbsp;  &nbsp;  The time interval of the cycle when the 'Start' function is working
 ### Number of loops(cycles):
