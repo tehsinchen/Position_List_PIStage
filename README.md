@@ -18,28 +18,28 @@ time.sleep(1)   # do whatever you want here
 ## Description of functions in position list
 
 ### Add:
-&nbsp;  &nbsp;  Add the current position in the end
+>Add the current position in the end
 ### Remove:
-&nbsp;  &nbsp;  Remove the selected position
+>Remove the selected position
 ### Clean:
-&nbsp;  &nbsp;  Clea the position list
+>Clean the position list
 ### Insert:
-&nbsp;  &nbsp;  Insert the current position before the selected position
+>Insert the current position before the selected position
 ### Replace:
-&nbsp;  &nbsp;  Replace the selected position with the current position
+>Replace the selected position with the current position
 ### Go:
-&nbsp;  &nbsp;  Go the the selected position
+>Go the the selected position
 ### Start:
-&nbsp;  &nbsp;  See the demo video above. It provide the opportunity to combine the use of PI stage with other instrument like camera.
+>See the demo video above. It provide the opportunity to combine the use of PI stage with other instrument like camera.
 ### Save:
-&nbsp;  &nbsp;  Save the position list
+>Save the position list
 ### Load:
-&nbsp;  &nbsp;  Load the position list
+>Load the position list
 ### Close:
-&nbsp;  &nbsp;  Close the application
+>Close the application
 ### Relative Position & Update:
-      In the case of the sample needs to be taken away from stage for some treatment then put back. Press 'Set ref.' then 'Update' to set the reference position. When the treatment was done and found the reference position, pressing 'Set ref.' and 'Update' again to update the position list to the current sample position.
+>In the case of the sample needs to be taken away from stage for some treatment then put back. Press 'Set ref.' then 'Update' to set the reference position. When the treatment was done and found the reference position, pressing 'Set ref.' and 'Update' again to update the position list to the current sample position.
 ### Interval:
-&nbsp;  &nbsp;  The time interval of the cycle when the 'Start' function is working
+>The time interval of the cycle when the 'Start' function is working
 ### Number of loops(cycles):
-&nbsp;  &nbsp;  If empty, the 'Start' function will continue until the program is closed
+>If empty, the 'Start' function will continue until the program is closed
